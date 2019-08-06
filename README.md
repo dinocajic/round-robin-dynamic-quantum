@@ -22,4 +22,4 @@ Either run the program with the test values specified or change the values for:
     - The longest burst time of a process inside the queue
 
 See example inside Main.java
-Run Main.java
+- Run Main.java
